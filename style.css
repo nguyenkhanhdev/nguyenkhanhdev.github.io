@@ -1,0 +1,46 @@
+
+	form {
+		margin-bottom: 20px;
+	}
+	label, input, button {
+		display: block;
+	}
+	input, button {
+		margin-top: 5px;
+	}
+	input {
+		width: 100%;
+		box-sizing: border-box;
+		padding: 5px;
+	}
+	button {
+		width: auto;
+	}
+	#content {
+		margin-top: 20px;
+		border: 1px solid #ccc;
+		padding: 10px;
+		height: 500px;
+		overflow: auto;
+	}
+
+
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+      }
+      
+      h1 {
+        color: #333;
+        font-size: 36px;
+        margin-bottom: 20px;
+      }
+      
+      p {
+        color: #666;
+        font-size: 18px;
+        line-height: 1.5;
+        margin-bottom: 40px;
+      }
+      
+
